@@ -1,0 +1,147 @@
+
+body{
+overflow-y: hidden;
+overflow-x: hidden
+}
+
+.images a{
+background:white;
+font-style: italic;
+font-weight: bold; 
+height:25px;
+width:150px;
+text-decoration: none;
+text-align: center;
+color: black; 
+margin: 40px;padding:7px ;
+border-radius:15px ;
+display: block;
+}
+
+.images{
+float:right;
+ height: 200px;
+width:200px ;
+margin:100px;
+border-width:5px;
+border-color: black
+ }
+
+.images legend{
+font-size:20px;
+font-weight: bold;
+font-style: italic;
+}
+
+.images {
+ border-width: 5px;
+margin:3px; 
+width:200px;
+height:550px;
+overflow-y: hidden
+}
+
+.one1 ,.one2,.two1,.two2{
+width:700px ;
+height:1000px; 
+margin:3px;
+}
+
+p{
+display: inline-block;
+font-style: italic;
+font-size:20px;
+font-weight: bold;
+margin-left:3px
+ }
+
+img,input,p{
+font-style: italic;
+border-radius:15px;
+margin:5px;
+border-color: black;
+border-width: 3px;
+}
+
+.one1 div{
+display: inline;
+}
+
+.input input{
+margin-left: 20px ;
+padding:5px;
+width: 100px 
+}
+
+img{
+width:100px;
+height:100px ;
+border-color: black ;
+border-width: 3px
+}
+
+fieldset{
+margin:10px;
+width:700px;
+ border-width: 5px;
+height:100%;
+border-color: black
+}
+
+legend{
+font-size:25px;
+font-weight: bold;
+font-style: italic;
+}
+
+.par {
+margin:3px;
+font-style: italic;
+size:25px ;
+text-align: center;
+font-weight: bold;
+}
+
+h1{
+text-align: center;
+font-style: italic;
+font-size:50px;
+margin:3px ;
+margin-top:20px
+ }
+
+.div1 input{
+width:auto;
+margin:5px;
+border-width:3px;
+border-color:black; 
+ border-radius: 8px;
+padding:10px;
+}
+
+.back{
+width: auto;
+height:700px;
+overflow: scroll;
+margin:0px;
+background-image:url(image/back.jpg);background-size:100%,100% 
+ }
+
+.div1 div,textarea{
+margin:10px;
+border-width:3px;
+border-color:black; 
+ border-radius: 8px;padding:10px;
+ font-weight: bold;
+font-style: italic;
+font-size: 24px
+}
+
+.div1 span{
+color:green;
+size: 30px
+}
+
+
+
+
